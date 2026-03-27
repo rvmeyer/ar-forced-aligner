@@ -15,10 +15,4 @@ Full glide/vowel set: w, y, aa, ee, ii, oo, uu, a, e, i, o, u
 
 Reduced vowel set excludes mid vowels
 
-    Model 1: full consonant set + reduced vowel set
-    Model 2: reduced consonant set + full vowel set
-    Model 3: full consonant set + full vowel set
-
-
-
-<a href = "https://colab.research.google.com/drive/1PwWiKjFJw1pviFrOdWgqR8UZfzi9_wXe?usp=drive_link">Here</a> is a CoLab file for generating dictionaries (this is what worked for my data, currently undergoing revisions to make it more customizable. Under construction, in disrepair). The same file as a .py is also available.
+<a href = "https://colab.research.google.com/drive/1PwWiKjFJw1pviFrOdWgqR8UZfzi9_wXe?usp=drive_link">Here</a> is a CoLab file for preprocessing text and generating dictionaries (this is what worked for my data, currently undergoing revisions to make it more customizable. Under construction, in disrepair). The same file as a .py is also available.
