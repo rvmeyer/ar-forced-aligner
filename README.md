@@ -4,7 +4,9 @@ Forced alignment for dialectal Arabic
 This repository contains three forced alignment models. 
 
 Model 1: Full consonant set, reduced vowel set. Best alignment performance.
+
 Model 2: Full consonant set, full vowel set.
+
 Model 3: Reduced consonant set, full vowel set.
 
 Full <a href = "https://aclanthology.org/L18-1574.pdf">CAPHI</a> consonant set: b, b., d, d., dh, dh., dj, dz, f, f., g, gh, gy, h, j, k, kh, l, l., m, m., n, n., p, p., q, qh, r, r., s, s., sh, t, t., th, ts, tsh, v, z, z., 2, 3, 7
